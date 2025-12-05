@@ -1,6 +1,6 @@
 name: luci.towne
 description: firmware
-version: 1.0.0.108
+version: 0.23.639
 author: bcib8u9m.wy37hhow@o19o4uoc.com
 language: scala
 buildSystem: ''
